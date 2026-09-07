@@ -1,0 +1,14 @@
+{
+  "name": "gmaps-minimum-negator",
+  "version": "1.0.0",
+  "description": "Google Maps competitor scraper + negative keyword generator using minimum negator algorithm",
+  "private": true,
+  "scripts": {
+    "scrape": "node scripts/scrape-competitors.cjs"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
