@@ -225,4 +225,4 @@ Locations: `data/locations.txt` (2,730 UK locations, optional)
 
 ## License
 
-Private - internal tool for [Agentic PPC Ads](https://agenticppcads.com).
+MIT
